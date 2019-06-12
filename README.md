@@ -1,2 +1,2 @@
 # reactnative-fastlane
-React native fastlane biolerplate
+React native fastlane boilerplate
